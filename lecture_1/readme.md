@@ -49,7 +49,7 @@ You might have heard that Python is popular. On one hand, it may seem that it do
 For better or worse, in software development popularity is a strong indicator of the quality of libraries you will have available as well the number of job openings there are. In short, you should tend to gravitate towards more popular technologies as there will be more choices and integrations available.
 So, is Python actually that popular? Yes it is. You’ll of course find a lot of hype and hyperbole. But there are plenty of stats to back this one. Let’s look at some analytics available and presented by StackOverflow.com.
 
-## Let’s Take A Look At Some Statistics
+### Let’s Take A Look At Some Statistics
 [StackOverflow](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages)
 
 
