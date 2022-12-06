@@ -25,3 +25,5 @@ if unit == "inch":
     print(inch_to_centimeter(value), "inch")
 if unit == "ft":
     print(foot_to_centimeter(value), "ft")
+
+# generate testcase

@@ -20,7 +20,7 @@ Here you get blocks that represent programming concepts, like variables, loops, 
 
 Other languages are incredibly powerful for expert developers. The most popular one in this category is likely C++ and its close relative C. Whatever web browser you used today was likely written in C or C++. Your operating system running that browser was also very likely built with C/C++. Your favorite first-person shooter or strategy video game? You nailed it: C/C++.
 
-Both Scratch and C++ are decidedly not what I would call full- spectrum languages. In the Scratch level, it’s easy to start but you have to switch to a “real” language to build real applications. Conversely, you can build real apps with C++, yet there is no gentle on-ramp. You dive head first into all the complexity of that language which exists to support these rich applications.
+Both Scratch and C++ are decidedly not what I would call full-spectrum languages. In the Scratch level, it’s easy to start but you have to switch to a “real” language to build real applications. Conversely, you can build real apps with C++, yet there is no gentle on-ramp. You dive head first into all the complexity of that language which exists to support these rich applications.
 
 Python, on the other hand, is special. It is a full-spectrum language. We often judge the simplicity of a language based on the “hello world” test. That is, what syntax and actions are necessary to get that lan- guage to output “hello world” to the user? In Python, it couldn’t be simpler:
 ```python 

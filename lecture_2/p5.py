@@ -10,6 +10,3 @@ def print_star_pattern_2():
     for i in range(2, 6):
         print(" " * (5 - i) + "*" + " " * (2 * i - 3) + "*")
     print("*" * 9)
-
-
-print_star_pattern_2()
