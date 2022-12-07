@@ -32,7 +32,6 @@ def bubble_sort(array):
 # Selection Sort
 Selection sort is another simple sorting algorithm. It works by selecting the smallest element in the list and swapping it with the first element in the list. Then, it selects the second-smallest element in the list and swaps it with the second element in the list. It continues doing this until the list is sorted.
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Fselection-sort&psig=AOvVaw0NYd-UTdmcREAXK6yS9FiG&ust=1670503051548000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjf8PnC5_sCFQAAAAAdAAAAABAE)
 
 Selection sort is a simple algorithm, but it’s not very efficient. It’s not a good choice for sorting large lists. The algorithm’s time complexity is O(n^2), which means that for a list of n elements, the algorithm will have to make n^2 comparisons. The space complexity is O(1), which means that the algorithm only requires a constant amount of space.
 
