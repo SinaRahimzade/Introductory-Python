@@ -2,7 +2,7 @@
 Bubble Sort is one of the most straightforward sorting algorithms. Its name comes from the way the algorithm works: With every new pass, the largest element in the list “bubbles up” toward its correct position.
 Bubble sort consists of making multiple passes through a list, comparing elements one by one, and swapping adjacent items that are out of order.
 
-![image][https://files.realpython.com/media/python-sorting-algorithms-bubble-sort.216ab9a52018.png]
+![image](https://files.realpython.com/media/python-sorting-algorithms-bubble-sort.216ab9a52018.png)
 
 Bubble sort is a simple algorithm, but it’s not very efficient. It’s not a good choice for sorting large lists. The algorithm’s time complexity is O(n^2), which means that for a list of n elements, the algorithm will have to make n^2 comparisons. The space complexity is O(1), which means that the algorithm only requires a constant amount of space.
 
@@ -32,7 +32,7 @@ def bubble_sort(array):
 # Selection Sort
 Selection sort is another simple sorting algorithm. It works by selecting the smallest element in the list and swapping it with the first element in the list. Then, it selects the second-smallest element in the list and swaps it with the second element in the list. It continues doing this until the list is sorted.
 
-![image][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Fselection-sort&psig=AOvVaw0NYd-UTdmcREAXK6yS9FiG&ust=1670503051548000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjf8PnC5_sCFQAAAAAdAAAAABAE]
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Fselection-sort&psig=AOvVaw0NYd-UTdmcREAXK6yS9FiG&ust=1670503051548000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjf8PnC5_sCFQAAAAAdAAAAABAE)
 
 Selection sort is a simple algorithm, but it’s not very efficient. It’s not a good choice for sorting large lists. The algorithm’s time complexity is O(n^2), which means that for a list of n elements, the algorithm will have to make n^2 comparisons. The space complexity is O(1), which means that the algorithm only requires a constant amount of space.
 
@@ -64,7 +64,7 @@ def selection_sort(array):
 # Insertion Sort
 Insertion sort is another simple sorting algorithm. It works by inserting each element into its proper place in the list. It does this by comparing the element to the elements before it and swapping them if necessary.
 
-![image][https://files.realpython.com/media/python-sorting-algorithms-insertion-sort.a102f819b3d7.png]
+![image](https://files.realpython.com/media/python-sorting-algorithms-insertion-sort.a102f819b3d7.png)
 
 Insertion sort is a simple algorithm, but it’s not very efficient. It’s not a good choice for sorting large lists. The algorithm’s time complexity is O(n^2), which means that for a list of n elements, the algorithm will have to make n^2 comparisons. The space complexity is O(1), which means that the algorithm only requires a constant amount of space.
 
